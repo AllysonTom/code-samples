@@ -1,0 +1,1 @@
+The MLB Predictions project is a data scraping, cleaning, and visualization project coupled with machine learning to create predictions for MLB player performance.
